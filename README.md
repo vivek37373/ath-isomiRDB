@@ -1,10 +1,9 @@
 ##### **Author: AT Vivek,NIPGR**
 
-
 # Arabidopsis thaliana isomiR annotation from sRNA-seq datasets
 
 
- Here, you'll find essential lookup tables for annotating isomiRs of Arabidopsis thaliana, curated and organized for your convenience.
+ Here, you'll find essential IsoMiRmap lookup tables for annotating isomiRs of _Arabidopsis thaliana_, curated and organized for your convenience.
 
 ## Lookup Tables:
 
@@ -14,7 +13,7 @@
 4. **ath_RepeatMakerClassIslands_miRBase_v22.txt**
 5. **ath_SNPtable_miRBase_v22.txt**
 
-Feel free to explore and leverage these files for your isomiR analysis in Arabidopsis thaliana.
+Feel free to explore and leverage these files for your isomiR analysis in _Arabidopsis thaliana_.
 
 ## Citation:
 
