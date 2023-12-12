@@ -2,7 +2,7 @@
 
 # Arabidopsis thaliana isomiR annotation from sRNA-seq datasets
 
-### **Author: AT Vivek(PhD student)**
+##### **Author: AT Vivek(PhD student)**
 
  Here, you'll find essential lookup tables for annotating isomiRs of Arabidopsis thaliana, curated and organized for your convenience.
 
