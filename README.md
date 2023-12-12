@@ -19,7 +19,7 @@ If you find these files useful in your research, please consider citing our work
 
 
 **Reference:**
-[IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets](insert_link_to_publication)
+[IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets](https://academic.oup.com/bioinformatics/article/37/13/1828/6104842)
 
 
 If you have any questions or feedback, please don't hesitate to reach out.
