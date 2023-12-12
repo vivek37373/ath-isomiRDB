@@ -1,4 +1,4 @@
-##### **Author: AT Vivek(PhD student)**
+##### **Author: AT Vivek,NIPGR**
 
 
 # Arabidopsis thaliana isomiR annotation from sRNA-seq datasets
