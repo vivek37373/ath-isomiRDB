@@ -1,4 +1,4 @@
-**Author: AT Vivek(PhD student)**
+#**Author: AT Vivek(PhD student)**
 
 # Arabidopsis thaliana isomiR annotation
 
