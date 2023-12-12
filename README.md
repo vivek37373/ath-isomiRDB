@@ -1,6 +1,6 @@
 ##### **Author: AT Vivek,NIPGR**
 
-# Arabidopsis thaliana isomiR annotation from sRNA-seq datasets
+# _Arabidopsis thaliana_ isomiR annotation from sRNA-seq datasets
 
 
  Here, you'll find essential IsoMiRmap lookup tables for annotating isomiRs of _Arabidopsis thaliana_, curated and organized for your convenience.
