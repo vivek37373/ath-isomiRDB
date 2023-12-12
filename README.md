@@ -1,7 +1,6 @@
 
 
 Arabidopsis thaliana isomiR annotation from sRNA-seq datasets
----
 
 ### **Author: AT Vivek(PhD student)**
 
