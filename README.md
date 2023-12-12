@@ -3,7 +3,7 @@
 # _Arabidopsis thaliana_ isomiR annotation from sRNA-seq datasets
 
 
- Here, you'll find essential IsoMiRmap lookup tables for annotating isomiRs of _Arabidopsis thaliana_, curated and organized for your convenience.
+ Here, you'll find essential [IsoMiRmap](https://cm.jefferson.edu/isoMiRmap/) lookup tables for annotating isomiRs of _Arabidopsis thaliana_, curated and organized for your convenience.
 
 ## Lookup Tables:
 
@@ -18,10 +18,6 @@ Feel free to explore and leverage these files for your isomiR analysis in _Arabi
 ## Citation:
 
 If you find these files useful in your research, please consider citing our work:
-
-
-**Reference:**
-[IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets](https://academic.oup.com/bioinformatics/article/37/13/1828/6104842)
 
 
 If you have any questions or feedback, please don't hesitate to reach out.
