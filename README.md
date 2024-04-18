@@ -15,7 +15,6 @@
 
 
 These are the tables used to annotate isomiRs avaialable is athisomiRDB.
-![image](https://github.com/vivek37373/ath-isomiRDB/assets/32024204/4ac1a3bd-fae2-4f9b-80b2-8c4e42ae16e9)
 
 Feel free to explore and leverage these files for your isomiR analysis in _Arabidopsis thaliana_.
 
