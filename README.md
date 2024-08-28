@@ -23,7 +23,7 @@
    This file contains sequences that exhibit SNP variations(1001 Genomes Project) compared to the reference isomiR sequence.
 
 
-These are the tables used to annotate isomiRs avaialable is athisomiRDB.
+These are the tables used to annotate isomiRs available is athisomiRDB.
 
 Feel free to explore and leverage these files for your isomiR analysis in _Arabidopsis thaliana_.
 
