@@ -20,7 +20,7 @@
    This file contains repeat islands to determine whether the isomiR can be found within a known repeat element.
 
 5. **ath_SNPtable_miRBase_v22.txt**  
-   This file contains sequences that exhibit SNP variations(1001 Genomes Project) compared to the reference isomiR sequence.
+   This file contains sequences that exhibit SNP variations (1001 Genomes Project) compared to the reference isomiR sequence.
 
 
 These are the tables used to annotate isomiRs available is athisomiRDB.
